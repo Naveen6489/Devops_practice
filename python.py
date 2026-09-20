@@ -6,6 +6,6 @@ c=a-b
 d=b-a+c
 d=a
 print("hello world")
-k=2
+print("hi")
 
 
