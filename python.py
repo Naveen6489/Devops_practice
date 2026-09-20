@@ -4,3 +4,4 @@ d=a+b
 b=a+a
 c=a-b
 d=a
+print("hello world")
