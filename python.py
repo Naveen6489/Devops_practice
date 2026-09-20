@@ -3,4 +3,5 @@ b=20
 c=a-b
 d=b-a+c
 d=a
+print("hi world")
 
