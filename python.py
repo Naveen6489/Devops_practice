@@ -6,3 +6,4 @@ c=a-b
 d=b-a+c
 d=a
 print("hello world")
+a=b+1
